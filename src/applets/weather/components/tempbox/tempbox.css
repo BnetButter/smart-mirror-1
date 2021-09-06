@@ -1,0 +1,23 @@
+.Tempbox {
+    text-align: center;
+    display: inline-block;
+    font-size: 60px;
+    position: absolute;
+    width: 220px;
+    top: 20%;
+}
+
+.MinMaxTemp {
+    display: inline-block;
+    font-size: 30px;
+    margin: 0px 20px;
+}
+
+.MinMax {
+    padding-top: 25px;
+}
+
+#MinMax {
+    font-size: 20px;
+}
+

@@ -1,0 +1,8 @@
+.Knob {
+    border: 2px solid white;
+    vertical-align: middle;
+}
+
+.Knob::before {
+    content: "\2191";
+}

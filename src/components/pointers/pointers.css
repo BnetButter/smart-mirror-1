@@ -1,0 +1,20 @@
+.Pointer {
+    border: 2px solid red;
+    width: 5px;
+    height: 5px;
+    border-radius: 10px;
+    position: absolute;
+    visibility: hidden;
+    z-index: 5000;
+}
+
+.Palm {
+    border: 2px solid red;
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    position: absolute;
+    visibility: hidden;
+    z-index: 5000;
+    background: grey;
+}

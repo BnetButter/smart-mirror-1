@@ -1,0 +1,10 @@
+.Preview {
+    position: relative;
+    font-size: 20px;
+    height: 100px;
+    margin: 20px;
+}
+
+.Preview .Button {
+    height: 100%;
+}

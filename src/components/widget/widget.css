@@ -1,0 +1,10 @@
+.Widget {
+    position: absolute;
+    background: black;
+    color: white;
+}
+
+.Widget .div
+{
+    position: relative;
+}

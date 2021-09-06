@@ -1,0 +1,25 @@
+#Menu {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 5000;
+}
+
+.HandMenu {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 5000;
+}
+
+.MenuButton {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    border: 2px solid white;
+    z-index: 5001;
+}
+.MenuButton .div {
+    position: relative;
+}

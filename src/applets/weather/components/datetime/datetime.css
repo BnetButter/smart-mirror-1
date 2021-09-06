@@ -1,0 +1,30 @@
+.Datetime {
+    display: inline-block;
+}
+
+.Datebox {
+    display: inline-block;
+    
+}
+
+.Weekday
+{
+    display: inline-block;
+    font-size: 70px;
+    margin-left: 10px;
+    margin-right: 30px;
+}
+
+.Day {
+    font-size: 40px;
+}
+
+.Month {
+    font-size: 50px;
+}
+
+.Time {
+    display: inline-block;
+    padding: 0px 30px;
+    font-size: 60px;
+}
