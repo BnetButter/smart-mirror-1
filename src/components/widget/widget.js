@@ -121,7 +121,6 @@ class extends React.Component
 
     onopen()
     {   
-        this.client.do_get({"settings": this.state.style, options: {}});
     }
 
     onmessage(event)
@@ -200,7 +199,6 @@ class extends React.Component
                     }
                     
                     
-                    this.client.do_post({settings: new_style, options: {}})
                     this.set_style(new_style);
                     this.initial_palm_pos = [curr_palm_pos[0], curr_palm_pos[1]];
                 }
